@@ -71,7 +71,7 @@ public class Jogo {
 		// Se o jogagor tiver alguma pontuação, ela é apresentada. 
 		if (pontuacao != null) {
 			System.out.println("O jogador " + nome + " já possui " + pontuacao
-								+ "vitória(s)!");
+					+ "vitória(s)!");
 		}
 		
 		// Variável que identifica se algum jogador ganhou ou se houve empate.
